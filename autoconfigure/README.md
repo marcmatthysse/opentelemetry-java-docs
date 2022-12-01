@@ -6,7 +6,7 @@ module.
 
 ## Prerequisites
 
-* Java 1.8
+* Java 11
 
 ## How to run
 
